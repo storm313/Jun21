@@ -1,4 +1,5 @@
 --abc
+--newV2 b1
 CREATE OR REPLACE PROCEDURE USP_Test1
 AS
 V_Param VARCHAR(10);
